@@ -31,4 +31,3 @@ User Query → Retriever → LLM → Answer
 
 ---
 
-## 📂 Project Structure
